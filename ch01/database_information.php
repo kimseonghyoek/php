@@ -25,3 +25,4 @@ if (in_array($_POST['meal'], $meals)) {
     // 다음을 출력
     print "알 수 없는 메뉴입니다.";
 }
+?>
