@@ -6,5 +6,5 @@ $birthday = $birthday + 1;
 //$years_left에서  1 빼기
 $years_left = $years_left -1;
 //$years_left에서 또 1 빼기
---$years_left;
+--$years_left;      
 ?>
