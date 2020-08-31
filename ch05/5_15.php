@@ -28,7 +28,7 @@ if ($total > 20) {
     $total = restairant_check(15.22, 8.25, 15);
     $method = payment_method(20, $total);
     print '결제 방법은' . $method . '입니다.';
-
+    //  5_17.php
     if (restairant_check(15.22, 8.25, 15) < 20) {
         print '$20가 안되니, 현금으로 내야지.\n';
     } else {
